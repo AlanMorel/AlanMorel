@@ -1,4 +1,4 @@
-### Hi there, I'm Alan 👋
+## Hi there, I'm Alan 👋
 
 I'm a full-stack software engineer, photographer, music producer, and technical writer, from New York. I like writing software to build cool things.
 
