@@ -5,4 +5,4 @@ I'm a full-stack software engineer, photographer, music producer, and technical 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanmorel&show_icons=true&count_private=true&hide=contribs&theme=graywhite)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmorel&layout=compact&theme=graywhite)
 
-Technologies I specialize in include TypeScript, JavaScript, Vue, React, Jest, Node, AWS (S3, CloudFront, Route 53), Express, Docker, MySQL, MongoDB, and many others.
+Skills: Spanish, TypeScript, Next.js, JavaScript, Tailwind, React, Docker, Jotai, MDX, Recoil, Redux, Vitest, memcached, redis, pino, vite, Vue, Prisma, GraphQL, Express, Jest, Node, AWS (S3, CloudFront, Route 53, SES), Webpack, Saas, nginx, Java, C#, Python, MongoDB, PHP, MySQL, PostgreSQL, Sass, Storybook.
